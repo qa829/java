@@ -1,4 +1,4 @@
-dist: bionic
+dist: xenial
 arch:
 - ppc64le
 - s390x
@@ -9,6 +9,7 @@ language: java
 
 jdk:
   - openjdk8
+  - openjdk11
   - openjdk13
   
 script:
