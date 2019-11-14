@@ -2,6 +2,7 @@ dist: bionic
 arch:
 - ppc64le
 - s390x
+- arm64
 
 language: java
 
