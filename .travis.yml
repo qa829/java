@@ -10,3 +10,4 @@ language: java
 script:
 - java -version
 - echo ${TRAVIS_CPU_ARCH}
+- env
