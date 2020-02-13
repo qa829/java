@@ -1,5 +1,5 @@
-dist: bionic
-arch:
+dist: xeniak
+# arch:
 # - ppc64le
 # - s390x
 # - arm64
