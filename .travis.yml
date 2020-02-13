@@ -1,4 +1,4 @@
-dist: xeniak
+dist: xenial
 # arch:
 # - ppc64le
 # - s390x
