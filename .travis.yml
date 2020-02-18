@@ -1,4 +1,5 @@
 dist: bionic
+group: dev
 # arch:
 # - ppc64le
 # - s390x
